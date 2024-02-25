@@ -5,6 +5,8 @@ joblib
 keras
 tensorflow-cpu
 pillow
-xgboost
+lightgbm
+scikit-learn
+seaborn
 
 
